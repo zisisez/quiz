@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.0c78e721.chunk.css",
-    "main.js": "/quiz/static/js/main.a11012dc.chunk.js",
-    "main.js.map": "/quiz/static/js/main.a11012dc.chunk.js.map",
-    "runtime-main.js": "/quiz/static/js/runtime-main.2abd5f50.js",
-    "runtime-main.js.map": "/quiz/static/js/runtime-main.2abd5f50.js.map",
-    "static/js/2.e1fc2fdc.chunk.js": "/quiz/static/js/2.e1fc2fdc.chunk.js",
-    "static/js/2.e1fc2fdc.chunk.js.map": "/quiz/static/js/2.e1fc2fdc.chunk.js.map",
-    "static/js/3.47786855.chunk.js": "/quiz/static/js/3.47786855.chunk.js",
-    "static/js/3.47786855.chunk.js.map": "/quiz/static/js/3.47786855.chunk.js.map",
+    "main.css": "/quiz/static/css/main.916405e7.chunk.css",
+    "main.js": "/quiz/static/js/main.4cf7a296.chunk.js",
+    "main.js.map": "/quiz/static/js/main.4cf7a296.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.2b7a819f.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.2b7a819f.js.map",
+    "static/js/2.6958bafd.chunk.js": "/quiz/static/js/2.6958bafd.chunk.js",
+    "static/js/2.6958bafd.chunk.js.map": "/quiz/static/js/2.6958bafd.chunk.js.map",
+    "static/js/3.b45f75be.chunk.js": "/quiz/static/js/3.b45f75be.chunk.js",
+    "static/js/3.b45f75be.chunk.js.map": "/quiz/static/js/3.b45f75be.chunk.js.map",
     "index.html": "/quiz/index.html",
-    "static/css/main.0c78e721.chunk.css.map": "/quiz/static/css/main.0c78e721.chunk.css.map",
-    "static/js/2.e1fc2fdc.chunk.js.LICENSE.txt": "/quiz/static/js/2.e1fc2fdc.chunk.js.LICENSE.txt"
+    "static/css/main.916405e7.chunk.css.map": "/quiz/static/css/main.916405e7.chunk.css.map",
+    "static/js/2.6958bafd.chunk.js.LICENSE.txt": "/quiz/static/js/2.6958bafd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2abd5f50.js",
-    "static/js/2.e1fc2fdc.chunk.js",
-    "static/css/main.0c78e721.chunk.css",
-    "static/js/main.a11012dc.chunk.js"
+    "static/js/runtime-main.2b7a819f.js",
+    "static/js/2.6958bafd.chunk.js",
+    "static/css/main.916405e7.chunk.css",
+    "static/js/main.4cf7a296.chunk.js"
   ]
 }
